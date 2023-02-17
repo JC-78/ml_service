@@ -1,2 +1,2 @@
 # ml_service
-My ML web service. Refresher practice
+Hosting ML service via Django. This repository is for practice or refresher.
